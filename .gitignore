@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+#my files
+Thumbs.db
+ufo_starterCode.js
+app_1.js
 
 # C extensions
 *.so
