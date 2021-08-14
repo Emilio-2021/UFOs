@@ -8,27 +8,27 @@ Tools: HTML, Bootstrap, CSS, JavaScript, VSCode Editor
 ##  Results
 The final web page shows a dark page with white fonts, it is a clean and visually appealing page where each element is well uniformed with the text.
 
---webPageUFOs
+![webPageUFOs.png](https://github.com/Emilio-2021/UFOs/blob/main/static/images/webPageUFOs.png)
 
 we have a filter box for us to commit a search in the UFOs databank:
 
---filterBox
+![filterBox.PNG](https://github.com/Emilio-2021/UFOs/blob/main/static/images/filterBox.PNG)
 
 this is the Initial state of the Search page:
 
---initialState
+![initialState.PNG](https://github.com/Emilio-2021/UFOs/blob/main/static/images/initialState.PNG)
 
 As soon as we enter a new search criteria and change our edit box focus the data is updated as in this case:
 
---filtered
+![filtered.PNG](https://github.com/Emilio-2021/UFOs/blob/main/static/images/filtered.PNG)
 
 To be able to reset all filters we can go to the beginning af the page and click the "UFO Sightings" link that will take us to the Initial state:
 
---ufoLink
+![ufoLink.PNG](https://github.com/Emilio-2021/UFOs/blob/main/static/images/ufoLink.PNG)
 
 Initial web page data bank:
 
---initialState
+![initialState.PNG](https://github.com/Emilio-2021/UFOs/blob/main/static/images/initialState.PNG)
 
 ## Summary
 
